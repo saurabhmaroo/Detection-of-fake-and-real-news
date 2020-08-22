@@ -1,0 +1,2 @@
+# Detection-of-fake-and-real-news
+There are two datasets. One for fake news  and other for real news. Both datasets are taken from Kaggle. I Applied Natural Language Processing Libraries for processing data and used different classification models for predicting the category of news. Different classification models  used are Naive Bayes Classification , K-Neighbours Classification and Random Forest Classification .
